@@ -6,7 +6,8 @@
 <a href="https://www.linkedin.com/in/michel-silva-aa0663162/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/michel.silva.948011/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/michel.silva.948011/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/michelsilvabr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/michelsilvabr/" height="30" width="40" /></a>
-<a href="Mich-SA#9235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mich-SA#9235" height="30" width="40" /></a>
+<a href="Mich-SA#9235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mich-SA#9235" height="30" width="40" /></a><a href="tel:+5571981430464" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Wpp"/></a>
+
 </p>
 
   ##
