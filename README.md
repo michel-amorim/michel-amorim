@@ -1,4 +1,4 @@
- <h1 align="center">Olá, Eu sou Michel Amorim 👋</h1>
+ <h1 align="center">Olá, sou Michel Amorim 👋</h1>
 
  
   <h3 align="left">Connect with me:</h3>
